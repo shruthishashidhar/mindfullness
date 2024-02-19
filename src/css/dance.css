@@ -1,0 +1,17 @@
+.dance-container {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font */
+    background-color: #f0f0f0; /* Set background color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+  }
+  
+  .dance-container h2 {
+    color: #333; /* Set heading color */
+  }
+  
+  .dance-container p {
+    color: #666; /* Set paragraph color */
+    line-height: 1.6; /* Set line height for better readability */
+  }
+  

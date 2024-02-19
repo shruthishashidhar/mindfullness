@@ -1,0 +1,38 @@
+.dashboard {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .dashboard h2 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .dashboard h3 {
+    color: #555;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .slot-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .slot {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .slot .time {
+    font-weight: bold;
+  }
+  
+  .slot .activity {
+    color: #666;
+  }
+  

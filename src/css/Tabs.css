@@ -1,0 +1,18 @@
+.tabs-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px; /* Add some padding for spacing */
+  }
+  
+  .tab-link {
+    margin-right: 10px; /* Add margin between the links */
+    text-decoration: none;
+    color: #000; /* Change link color */
+    font-weight: bold; /* Make link text bold */
+  }
+  
+  .tab-link:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+  
